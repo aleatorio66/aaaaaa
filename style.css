@@ -4,4 +4,10 @@ header {
     background-color: #00413b;
    color: rgb(95, 76, 145);
 
-.cabecalho-imagem
+.cabecalho-img{
+border-radius: 50%;
+
+
+}
+
+
